@@ -5,17 +5,18 @@ A flutter application that promotes mental well-being and private communication 
 ## sections
 it is divided into three main sections including home, relax and chat section
 
-![App Screenshot](images/home.png)
-![App Screenshot](images/writesecrets.png)
-![App Screenshot](images/selectimages.png)
-![App Screenshot](images/relax.png)
-![App Screenshot](images/meditation.png)
-![App Screenshot](images/songlist.png)
-![App Screenshot](images/musicplay.png)
-![App Screenshot](images/chats.png)
-![App Screenshot](images/messages.png)
-![App Screenshot](images/options.png)
-![App Screenshot](images/profile.png)
+<img src="images/home.png" alt="App Screenshot" width="100" height="100">
+<img src="images/write secrets.png" alt="App Screenshot" width="100" height="100">
+<img src="images/select images.png" alt="App Screenshot" width="100" height="100">
+<img src="images/relax.png" alt="App Screenshot" width="100" height="100">
+<img src="images/meditation.png" alt="App Screenshot" width="100" height="100">
+<img src="images/song list.png" alt="App Screenshot" width="100" height="100">
+<img src="images/music play.png" alt="App Screenshot" width="100" height="100">
+<img src="images/chats.png" alt="App Screenshot" width="100" height="100">
+<img src="images/messages.png" alt="App Screenshot" width="100" height="100">
+<img src="images/options.png" alt="App Screenshot" width="100" height="100">
+<img src="images/profile.png" alt="App Screenshot" width="100" height="100">
+
 
 
 
